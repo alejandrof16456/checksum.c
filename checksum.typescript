@@ -1,0 +1,12 @@
+Script started on Wed 17 Feb 2021 12:09:03 AM PST
+]0;af719873@ssh: ~/comp122/checksum.c[01;32maf719873@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 156.txt | ints2bytes | checksum
+Stored Checksum: 156, Computed Checksum: 156
+]0;af719873@ssh: ~/comp122/checksum.c[01;32maf719873@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 229.txt | ints2bytes | checksum
+Stored Checksum: 229, Computed Checksum: 132
+Error Detected!
+]0;af719873@ssh: ~/comp122/checksum.c[01;32maf719873@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 81.txt  | ints2bytes | checksum
+Stored Checksum: 81, Computed Checksum: 81
+]0;af719873@ssh: ~/comp122/checksum.c[01;32maf719873@ssh[00m:[01;34m~/comp122/checksum.c[00m$ exiy[Kt
+exit
+
+Script done on Wed 17 Feb 2021 12:09:54 AM PST
